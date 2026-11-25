@@ -8,4 +8,4 @@ Proyek pembelajaran Rekayasa Perangkat Lunak.
 - Melihat status pengajuan
 
 ## Developer
-Nama: Nama Mahasiswa
+Nama: Fahri Akbar Komara
